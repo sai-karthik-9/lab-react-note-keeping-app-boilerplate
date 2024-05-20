@@ -1,0 +1,26 @@
+*{
+  background-color: rgb(96, 145, 241);
+  color: rgba(23, 1, 1, 0.852);
+}
+.container{
+  display: flex;
+}
+
+.inputText{
+  font-size: 4rem;
+}
+.inputText,.outputText{
+  width: 70rem;
+  height: 70rem;
+  
+}
+
+.outputText{
+  border: 1px solid rgb(104, 84, 237);
+  background-color: rgba(9, 9, 9, 0.598);
+  font-size: 4rem;
+}
+
+.editor,.display{
+  margin-left: 5%;
+}
